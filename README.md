@@ -1,7 +1,7 @@
 # Zap Client for Windows [Apex External Cheat for Windows]
 **Updated to Game Version v3.0.79.44 (Season 22) (2024.09.01)**
 
-By **BoheSama** (Windows) and **Gerosity** (Linux, but developers very active banned players and Linux version is now DEPRECATED!!!)
+By **BoheSama** (Windows), **Gerosity** (Linux, but developers very active banned players and Linux version is now DEPRECATED!!!) and CheeZeDark(Rikko Matsumato)(Windows with DMA)
 
 All credits go to the original owners.
 
