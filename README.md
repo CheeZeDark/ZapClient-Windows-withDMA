@@ -172,9 +172,13 @@ To do list: </br>
 
 <details>
 <summary><b>Instruction to use with DMA(Direct Memory Access)</b></summary>
+    
     1. You Need Download DMALibrary and MemProcFS(Also you need 2 PCs, DMA Card and DMA Fuser)
+    
     2. Compile DMALibrary(MemProcFS and You're Compiled Exe Cheeto must be in one folder)
+    
     3. You Need Link DMALibrary with VMM and Leechcore!!!
+    
     3. Run Exe Cheeto and that's all!!!
 </details>
 
