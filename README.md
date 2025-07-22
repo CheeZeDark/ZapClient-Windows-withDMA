@@ -1,7 +1,7 @@
 # Zap Client for Windows [Apex External Cheat for Windows]
 **Updated to Game Version v3.0.79.44 (Season 22) (2024.09.01)**
 
-By **BoheSama** (Windows) and **Gerosity** (Linux)
+By **BoheSama** (Windows) and **Gerosity** (Linux, but developers very active banned players and Linux version is now DEPRECATED!!!)
 
 All credits go to the original owners.
 
@@ -171,8 +171,11 @@ To do list: </br>
 </details>
 
 <details>
-<summary><b>Video Previews</b></summary>
-
+<summary><b>Instruction to use with DMA(Direct Memory Access)</b></summary>
+    1. You Need Download DMALibrary and MemProcFS(Also you need 2 PCs, DMA Card and DMA Fuser)
+    2. Compile DMALibrary(MemProcFS and You're Compiled Exe Cheeto must be in one folder)
+    3. You Need Link DMALibrary with VMM and Leechcore!!!
+    3. Run Exe Cheeto and that's all!!!
 </details>
 
 # Other Repositories:
